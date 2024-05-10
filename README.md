@@ -1,2 +1,1 @@
-# cv-abhimanyu
-cv-abhimanyu sharma
+# Static-Website-Resume
